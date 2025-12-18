@@ -80,7 +80,7 @@ public class MainMenu {
 
             if (choice < 1 || choice > examples.size()) {
                 System.out.println();
-                System.out.println("Please pick a number inside the range 1~17 :)");
+                System.out.println("Please pick a number inside the range 1~18 :)");
                 System.out.println();
                 continue;
             }
