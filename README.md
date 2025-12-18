@@ -2,7 +2,7 @@
 
 This repository contains runnable **Java 1.8 (JDK 8)** examples for the **Java Collection Framework** (Sets, Maps, Iterators, Generics, Stacks, etc.), packaged as a small console application with a **single entry point**.
 
-When you run the project, you will see a menu (1–17). Typing a number executes the corresponding demo.
+When you run the project, you will see a menu (1–18). Typing a number executes the corresponding demo.
 
 ---
 
@@ -124,7 +124,7 @@ java -cp out frontistirio11.MainMenu
 ## Using the Menu
 
 - The program prints a list of demos.
-- Type a number (1–17) and press Enter to run the selected demo.
+- Type a number (1–18) and press Enter to run the selected demo.
 - Type **18** to exit.
 
 ---
