@@ -1,4 +1,4 @@
-# HY252-Front11 — Java Collection Framework (Frontistirio 11)
+# HY252-Front11 — Java Collection Framework
 
 This repository contains runnable **Java 1.8 (JDK 8)** examples for the **Java Collection Framework** (Sets, Maps, Iterators, Generics, Stacks, etc.), packaged as a small console application with a **single entry point**.
 
